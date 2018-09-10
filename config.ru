@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @cfinnberg Sign out
-1
-0 14,273 brajeshprashant/slate
-forked from lord/slate
- Code  Pull requests 0  Projects 0  Wiki  Insights
-slate/config.ru
-bcb3303  on 8 Dec 2016
-@brajeshprashant brajeshprashant config.ru file added
-     
-47 lines (39 sloc)  1.05 KB
 # Markdown
 set :markdown_engine, :redcarpet
 set :markdown,
@@ -62,16 +44,3 @@ end
 # Deploy Configuration
 # If you want Middleman to listen on a different port, you can set that below
 set :port, 4567
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
